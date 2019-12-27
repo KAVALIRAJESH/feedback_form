@@ -1,0 +1,16 @@
+.form_w_h {
+    margin: 100px;
+}
+.form-control {
+    font-size: 25px;
+}
+.btn {
+    margin-top: 20px;;
+    padding: 10px 70px 10px 70px;
+
+}
+#head_ing {
+    font-family: Verdana;
+    /* font-size: 40px; */
+    color: blueviolet;
+}
